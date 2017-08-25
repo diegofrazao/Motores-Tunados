@@ -1,0 +1,15 @@
+main .albums img{
+  box-shadow: 0px 0px 15px 7px rgba(0,0,0,0.75);
+  width: 90%;
+  margin-bottom: 30px;
+}
+
+@media all and (min-width: 950px) {
+  main .albums{
+    filter: grayscale(100%);
+  }  
+  main .albums:hover{
+    transition: all .8s;
+    filter: grayscale(0%);
+  }
+}
