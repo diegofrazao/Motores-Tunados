@@ -1,5 +1,9 @@
-#Projeto de LM
+# Projeto de LM
+
+> Diego Frankney Frazão da Silva - 20161370002
 
 # Motores-Tunados
-##Definição:
-###O pojeto tem como intuito mostrar carros personalizados.
+
+## Descrição:
+
+O pojeto tem como intuito mostrar carros personalizados.
